@@ -40,6 +40,7 @@ namespace abuseloader
                 Environment.Exit(0);
             }
             discord.updatePresence("@buse loader", "Checking folder structure", "abuse", "abuse");
+            // these could be made to be 1 liners but i find it distracting to read 1 liners personally 
             if (!fstream.folderExists(Application.StartupPath + "/programs"))
             {
                 fstream.createFolder(Application.StartupPath + "/programs");
