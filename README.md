@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">@buse loader</h3>
   <p align="center">
-    This is an partial open source application to keep all your private software up to date. This is not meant to be some advanced software, it's just to get you up and running with the software yopu wannt.  Note: Important information such as links and keys have been removed.
+    This is a partial open source application to keep all your private software up to date. This is not meant to be some advanced software, it's just to get you up and running with the software yopu wannt.  Note: Important information such as links and keys have been removed.
   </p>
 </div>
 
