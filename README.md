@@ -14,6 +14,12 @@
     <br>
 </div>
 
+## Pull requests
+<div>
+    <a href="https://github.com/abusedev/loader/pulls">Click here</a> I am always open to suggestions/crictism
+    <br>
+</div>
+
 ## Licensing 
 Permissions
 * ✔️ Commercial use
