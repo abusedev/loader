@@ -10,7 +10,8 @@
 
 ## Acknowledgments
 <div>
-    <a href="https://github.com/sfmohassel/libc.hwid">libc</a> - .NET core did not like identifer way, so I used part of their code in a class for any future .net core apps (.net framework works fine using normal way)
+    <a href="https://github.com/Lachee/discord-rpc-csharp">lachee</a> - C# Discord Rich Presence Wrapper
+    <br>
 </div>
 
 ## Licensing 
