@@ -97,7 +97,7 @@ namespace abuseloader
                 Console.WriteLine("");
                 Console.WriteLine("");
                 consoleManager.centerText("Contacting @buse server");
-                if (Process.GetProcessesByName("@buse cs2").Length == 0)
+                if (Process.GetProcessesByName("cs2").Length == 0)
                 {
                     DialogResult result = MessageBox.Show("Auto start counterstrike?", "@buse", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                     if (result == DialogResult.Yes) { downloadManager.getCsReady(true); }
