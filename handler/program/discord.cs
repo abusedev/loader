@@ -9,7 +9,7 @@ namespace abuseloader.handler.program
         public static DiscordRpcClient client;
 
         public static string applicationID = "";
-        public static void sendWebhook(string url, string username, string content)
+        public static void sendWebhook(string url, string username, string content) // i dont use client sided webhooks and neither should you but it's here anyways since i reu-use this class all the time and just havent't removed it.
         {
             WebClient wc = new WebClient();
             wc.UploadValues(url, new NameValueCollection
